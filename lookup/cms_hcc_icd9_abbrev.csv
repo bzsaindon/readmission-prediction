@@ -1,0 +1,323 @@
+"icd9_abbrev","condition","n_code","max_n_code"
+"003","Bone/Joint/Muscle Infections/Necrosis",2,2
+"006","Pneumococcal Pneumonia, Empyema, Lung Abscess",1,1
+"007","Opportunistic Infections",1,1
+"020","Pneumococcal Pneumonia, Empyema, Lung Abscess",3,3
+"021","Pneumococcal Pneumonia, Empyema, Lung Abscess",1,1
+"022","Pneumococcal Pneumonia, Empyema, Lung Abscess",1,1
+"022","Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock",1,1
+"031","Opportunistic Infections",2,2
+"032","Intestinal Obstruction/Perforation",1,1
+"036","Bone/Joint/Muscle Infections/Necrosis",1,1
+"036","Other Significant Endocrine and Metabolic Disorders",1,1
+"036","Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock",1,1
+"038","Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock",15,15
+"039","Pneumococcal Pneumonia, Empyema, Lung Abscess",1,1
+"040","Atherosclerosis of the Extremities with Ulceration or Gangrene",1,1
+"040","Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock",1,1
+"042","HIV/AIDS",1,1
+"052","Spinal Cord Disorders/Injuries",1,1
+"053","Spinal Cord Disorders/Injuries",1,1
+"054","Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock",1,1
+"054","Spinal Cord Disorders/Injuries",1,1
+"056","Bone/Joint/Muscle Infections/Necrosis",1,1
+"070","Chronic Hepatitis",6,6
+"078","Opportunistic Infections",1,1
+"079","HIV/AIDS",1,1
+"094","Cerebral Hemorrhage",1,1
+"098","Bone/Joint/Muscle Infections/Necrosis",5,5
+"099","Rheumatoid Arthritis and Inflammatory Connective Tissue Disease",1,1
+"102","Bone/Joint/Muscle Infections/Necrosis",1,1
+"112","Opportunistic Infections",3,3
+"114","Pneumococcal Pneumonia, Empyema, Lung Abscess",3,3
+"115","Pneumococcal Pneumonia, Empyema, Lung Abscess",3,3
+"117","Opportunistic Infections",3,3
+"118","Opportunistic Infections",1,1
+"121","Pneumococcal Pneumonia, Empyema, Lung Abscess",1,1
+"122","Pneumococcal Pneumonia, Empyema, Lung Abscess",1,1
+"130","Opportunistic Infections",3,3
+"135","Fibrosis of Lung and Other Chronic Lung Disorders",1,1
+"136","Opportunistic Infections",1,1
+"136","Rheumatoid Arthritis and Inflammatory Connective Tissue Disease",1,1
+"141","Colorectal, Bladder, and Other Cancers",9,9
+"142","Colorectal, Bladder, and Other Cancers",5,5
+"143","Colorectal, Bladder, and Other Cancers",4,4
+"144","Colorectal, Bladder, and Other Cancers",4,4
+"145","Colorectal, Bladder, and Other Cancers",9,9
+"146","Colorectal, Bladder, and Other Cancers",10,10
+"147","Colorectal, Bladder, and Other Cancers",6,6
+"148","Colorectal, Bladder, and Other Cancers",6,6
+"149","Colorectal, Bladder, and Other Cancers",4,4
+"150","Lung and Other Severe Cancers",8,8
+"151","Lung and Other Severe Cancers",9,9
+"152","Lung and Other Severe Cancers",6,6
+"153","Colorectal, Bladder, and Other Cancers",10,10
+"154","Colorectal, Bladder, and Other Cancers",5,5
+"155","Lung and Other Severe Cancers",3,3
+"156","Lung and Other Severe Cancers",5,5
+"157","Lung and Other Severe Cancers",7,7
+"158","Lung and Other Severe Cancers",3,3
+"159","Colorectal, Bladder, and Other Cancers",4,4
+"160","Colorectal, Bladder, and Other Cancers",8,8
+"161","Colorectal, Bladder, and Other Cancers",6,6
+"162","Lung and Other Severe Cancers",7,7
+"163","Lung and Other Severe Cancers",4,4
+"164","Colorectal, Bladder, and Other Cancers",6,6
+"165","Colorectal, Bladder, and Other Cancers",3,3
+"170","Lymphoma and Other Cancers",10,10
+"171","Lymphoma and Other Cancers",9,9
+"172","Breast, Prostate, and Other Cancers and Tumors",10,10
+"174","Breast, Prostate, and Other Cancers and Tumors",9,9
+"175","Breast, Prostate, and Other Cancers and Tumors",2,2
+"176","Lymphoma and Other Cancers",8,8
+"179","Breast, Prostate, and Other Cancers and Tumors",1,1
+"180","Colorectal, Bladder, and Other Cancers",4,4
+"181","Lymphoma and Other Cancers",1,1
+"182","Breast, Prostate, and Other Cancers and Tumors",3,3
+"183","Lymphoma and Other Cancers",7,7
+"184","Colorectal, Bladder, and Other Cancers",7,7
+"185","Breast, Prostate, and Other Cancers and Tumors",1,1
+"186","Breast, Prostate, and Other Cancers and Tumors",2,2
+"187","Breast, Prostate, and Other Cancers and Tumors",9,9
+"188","Colorectal, Bladder, and Other Cancers",10,10
+"189","Colorectal, Bladder, and Other Cancers",7,7
+"190","Breast, Prostate, and Other Cancers and Tumors",10,10
+"191","Lymphoma and Other Cancers",10,10
+"192","Lymphoma and Other Cancers",6,6
+"193","Breast, Prostate, and Other Cancers and Tumors",1,1
+"194","Breast, Prostate, and Other Cancers and Tumors",5,5
+"195","Breast, Prostate, and Other Cancers and Tumors",7,7
+"196","Metastatic Cancer and Acute Leukemia",6,6
+"197","Metastatic Cancer and Acute Leukemia",9,9
+"198","Metastatic Cancer and Acute Leukemia",8,8
+"199","Breast, Prostate, and Other Cancers and Tumors",2,2
+"200","Lymphoma and Other Cancers",81,81
+"201","Lymphoma and Other Cancers",72,72
+"202","Lymphoma and Other Cancers",90,90
+"203","Lung and Other Severe Cancers",9,9
+"204","Lymphoma and Other Cancers",12,12
+"205","Lung and Other Severe Cancers",15,15
+"206","Lung and Other Severe Cancers",12,12
+"207","Lung and Other Severe Cancers",9,9
+"208","Lymphoma and Other Cancers",12,12
+"209","Breast, Prostate, and Other Cancers and Tumors",28,28
+"225","Breast, Prostate, and Other Cancers and Tumors",7,7
+"227","Breast, Prostate, and Other Cancers and Tumors",2,2
+"228","Breast, Prostate, and Other Cancers and Tumors",1,1
+"237","Breast, Prostate, and Other Cancers and Tumors",11,11
+"238","Severe Hematological Disorders",5,5
+"239","Breast, Prostate, and Other Cancers and Tumors",1,1
+"249","Diabetes with Chronic Complications",12,12
+"250","Diabetes with Chronic Complications",24,24
+"251","Other Significant Endocrine and Metabolic Disorders",1,1
+"252","Other Significant Endocrine and Metabolic Disorders",7,7
+"253","Other Significant Endocrine and Metabolic Disorders",10,10
+"254","Other Significant Endocrine and Metabolic Disorders",4,4
+"255","Other Significant Endocrine and Metabolic Disorders",14,14
+"258","Other Significant Endocrine and Metabolic Disorders",6,6
+"259","Breast, Prostate, and Other Cancers and Tumors",1,1
+"260","Protein-Calorie Malnutrition",1,1
+"261","Protein-Calorie Malnutrition",1,1
+"262","Protein-Calorie Malnutrition",1,1
+"263","Protein-Calorie Malnutrition",5,5
+"270","Other Significant Endocrine and Metabolic Disorders",10,10
+"271","Other Significant Endocrine and Metabolic Disorders",5,5
+"272","Other Significant Endocrine and Metabolic Disorders",1,1
+"273","Other Significant Endocrine and Metabolic Disorders",3,3
+"275","Other Significant Endocrine and Metabolic Disorders",1,1
+"277","Other Significant Endocrine and Metabolic Disorders",15,15
+"278","Morbid Obesity",2,2
+"279","Disorders of Immunity",23,23
+"282","Coagulation Defects and Other Specified Hematological Disorders",13,13
+"283","Severe Hematological Disorders",6,6
+"284","Severe Hematological Disorders",6,6
+"285","Coagulation Defects and Other Specified Hematological Disorders",1,1
+"286","Coagulation Defects and Other Specified Hematological Disorders",9,9
+"287","Coagulation Defects and Other Specified Hematological Disorders",11,11
+"288","Disorders of Immunity",9,9
+"289","Coagulation Defects and Other Specified Hematological Disorders",3,3
+"291","Drug/Alcohol Psychosis",10,10
+"292","Drug/Alcohol Psychosis",11,11
+"295","Schizophrenia",60,60
+"296","Major Depressive, Bipolar, and Paranoid Disorders",56,56
+"297","Major Depressive, Bipolar, and Paranoid Disorders",6,6
+"303","Drug/Alcohol Dependence",8,8
+"304","Drug/Alcohol Dependence",40,40
+"321","Opportunistic Infections",1,1
+"323","Spinal Cord Disorders/Injuries",6,6
+"332","Parkinson's and Huntington's Diseases",2,2
+"333","Parkinson's and Huntington's Diseases",2,2
+"334","Spinal Cord Disorders/Injuries",7,7
+"335","Amyotrophic Lateral Sclerosis and Other Motor Neuron Disease",6,6
+"335","Spinal Cord Disorders/Injuries",6,6
+"336","Spinal Cord Disorders/Injuries",6,6
+"340","Multiple Sclerosis",1,1
+"341","Multiple Sclerosis",4,4
+"342","Hemiplegia/Hemiparesis",12,12
+"343","Cerebral Palsy",7,7
+"344","Monoplegia, Other Paralytic Syndromes",11,11
+"345","Seizure Disorders and Convulsions",18,18
+"348","Coma, Brain Compression/Anoxic Damage",3,3
+"349","Complications of Specified Implanted Device or Graft",1,1
+"353","Amputation Status, Lower Limb/Amputation Complications",1,1
+"357","Myasthenia Gravis/Myoneural Disorders,  Inflammatory and Toxic Neuropathy",11,11
+"358","Myasthenia Gravis/Myoneural Disorders,  Inflammatory and Toxic Neuropathy",9,9
+"359","Muscular Dystrophy",3,3
+"362","Diabetes with Chronic Complications",7,7
+"366","Diabetes with Chronic Complications",1,1
+"379","Proliferative Diabetic Retinopathy and Vitreous Hemorrhage",1,1
+"398","Congestive Heart Failure",1,1
+"402","Congestive Heart Failure",3,3
+"403","Chronic Kidney Disease, Stage 5",3,3
+"404","Chronic Kidney Disease, Stage 5",6,6
+"404","Congestive Heart Failure",6,6
+"410","Unstable Angina and Other Acute Ischemic Heart Disease",20,20
+"411","Unstable Angina and Other Acute Ischemic Heart Disease",4,4
+"413","Angina Pectoris",3,3
+"415","Vascular Disease with Complications",4,4
+"416","Congestive Heart Failure",4,4
+"417","Congestive Heart Failure",4,4
+"425","Congestive Heart Failure",10,10
+"426","Specified Heart Arrhythmias",1,1
+"427","Specified Heart Arrhythmias",6,6
+"428","Congestive Heart Failure",15,15
+"429","Acute Myocardial Infarction",2,2
+"429","Congestive Heart Failure",2,2
+"430","Cerebral Hemorrhage",1,1
+"431","Cerebral Hemorrhage",1,1
+"432","Cerebral Hemorrhage",3,3
+"433","Ischemic or Unspecified Stroke",6,6
+"434","Ischemic or Unspecified Stroke",3,3
+"436","Ischemic or Unspecified Stroke",1,1
+"438","Monoplegia, Other Paralytic Syndromes",10,10
+"440","Vascular Disease",10,10
+"441","Vascular Disease with Complications",8,8
+"442","Vascular Disease",10,10
+"443","Vascular Disease",5,5
+"443","Vascular Disease with Complications",5,5
+"444","Vascular Disease with Complications",8,8
+"445","Vascular Disease with Complications",4,4
+"446","Rheumatoid Arthritis and Inflammatory Connective Tissue Disease",10,10
+"447","Vascular Disease",13,13
+"448","Vascular Disease",1,1
+"449","Vascular Disease with Complications",1,1
+"451","Vascular Disease",4,4
+"453","Vascular Disease",19,19
+"454","Vascular Disease with Complications",2,2
+"456","End-Stage Liver Disease",4,4
+"459","Vascular Disease with Complications",4,4
+"481","Pneumococcal Pneumonia, Empyema, Lung Abscess",1,1
+"482","Aspiration and Specified Bacterial Pneumonias",11,11
+"484","Opportunistic Infections",2,2
+"491","Chronic Obstructive Pulmonary Disease",7,7
+"492","Chronic Obstructive Pulmonary Disease",2,2
+"493","Chronic Obstructive Pulmonary Disease",3,3
+"494","Fibrosis of Lung and Other Chronic Lung Disorders",2,2
+"495","Fibrosis of Lung and Other Chronic Lung Disorders",10,10
+"496","Chronic Obstructive Pulmonary Disease",1,1
+"500","Fibrosis of Lung and Other Chronic Lung Disorders",1,1
+"501","Fibrosis of Lung and Other Chronic Lung Disorders",1,1
+"502","Fibrosis of Lung and Other Chronic Lung Disorders",1,1
+"503","Fibrosis of Lung and Other Chronic Lung Disorders",1,1
+"504","Fibrosis of Lung and Other Chronic Lung Disorders",1,1
+"505","Fibrosis of Lung and Other Chronic Lung Disorders",1,1
+"506","Fibrosis of Lung and Other Chronic Lung Disorders",6,6
+"507","Aspiration and Specified Bacterial Pneumonias",3,3
+"508","Fibrosis of Lung and Other Chronic Lung Disorders",5,5
+"510","Pneumococcal Pneumonia, Empyema, Lung Abscess",2,2
+"513","Pneumococcal Pneumonia, Empyema, Lung Abscess",2,2
+"515","Fibrosis of Lung and Other Chronic Lung Disorders",1,1
+"516","Fibrosis of Lung and Other Chronic Lung Disorders",20,20
+"517","Fibrosis of Lung and Other Chronic Lung Disorders",3,3
+"518","Cardio-Respiratory Failure and Shock",8,8
+"519","Respirator Dependence/Tracheostomy Status",4,4
+"530","Artificial Openings for Feeding or Elimination",2,2
+"531","Intestinal Obstruction/Perforation",8,8
+"532","Intestinal Obstruction/Perforation",8,8
+"533","Intestinal Obstruction/Perforation",8,8
+"534","Intestinal Obstruction/Perforation",8,8
+"536","Artificial Openings for Feeding or Elimination",4,4
+"555","Inflammatory Bowel Disease",4,4
+"556","Inflammatory Bowel Disease",9,9
+"557","Vascular Disease",2,2
+"560","Intestinal Obstruction/Perforation",10,10
+"567","Intestinal Obstruction/Perforation",13,13
+"569","Artificial Openings for Feeding or Elimination",6,6
+"571","Chronic Hepatitis",4,4
+"571","Cirrhosis of Liver",4,4
+"572","End-Stage Liver Disease",4,4
+"573","End-Stage Liver Disease",1,1
+"577","Chronic Pancreatitis",1,1
+"584","Acute Renal Failure",5,5
+"585","Chronic Kidney Disease, Stage 5",2,2
+"588","Other Significant Endocrine and Metabolic Disorders",2,2
+"593","Vascular Disease with Complications",1,1
+"596","Complications of Specified Implanted Device or Graft",3,3
+"629","Complications of Specified Implanted Device or Graft",1,1
+"695","Severe Skin Burn or Condition",3,3
+"696","Rheumatoid Arthritis and Inflammatory Connective Tissue Disease",1,1
+"707","Chronic Ulcer of Skin, Except Pressure",9,9
+"710","Rheumatoid Arthritis and Inflammatory Connective Tissue Disease",8,8
+"711","Bone/Joint/Muscle Infections/Necrosis",80,80
+"714","Rheumatoid Arthritis and Inflammatory Connective Tissue Disease",11,11
+"720","Rheumatoid Arthritis and Inflammatory Connective Tissue Disease",6,6
+"725","Rheumatoid Arthritis and Inflammatory Connective Tissue Disease",1,1
+"728","Bone/Joint/Muscle Infections/Necrosis",1,1
+"730","Bone/Joint/Muscle Infections/Necrosis",70,70
+"733","Bone/Joint/Muscle Infections/Necrosis",7,7
+"740","Spinal Cord Disorders/Injuries",3,3
+"741","Spinal Cord Disorders/Injuries",8,8
+"742","Spinal Cord Disorders/Injuries",10,10
+"759","Breast, Prostate, and Other Cancers and Tumors",2,2
+"771","Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock",1,1
+"780","Seizure Disorders and Convulsions",4,4
+"785","Cardio-Respiratory Failure and Shock",2,2
+"785","Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock",2,2
+"798","Cardio-Respiratory Failure and Shock",4,4
+"799","Protein-Calorie Malnutrition",1,1
+"799","Respiratory Arrest",1,1
+"800","Major Head Injury",50,50
+"801","Major Head Injury",50,50
+"802","Major Head Injury",26,26
+"803","Major Head Injury",50,50
+"804","Major Head Injury",50,50
+"805","Vertebral Fractures without Spinal Cord Injury",26,26
+"806","Spinal Cord Disorders/Injuries",44,44
+"808","Hip Fracture/Dislocation",16,16
+"820","Hip Fracture/Dislocation",18,18
+"821","Hip Fracture/Dislocation",14,14
+"835","Hip Fracture/Dislocation",8,8
+"850","Major Head Injury",3,3
+"851","Major Head Injury",50,50
+"852","Major Head Injury",30,30
+"853","Major Head Injury",10,10
+"854","Major Head Injury",10,10
+"887","Traumatic Amputations and Complications",8,8
+"895","Traumatic Amputations and Complications",2,2
+"896","Traumatic Amputations and Complications",4,4
+"897","Traumatic Amputations and Complications",8,8
+"905","Amputation Status, Lower Limb/Amputation Complications",1,1
+"905","Major Head Injury",1,1
+"907","Major Head Injury",1,1
+"907","Spinal Cord Disorders/Injuries",1,1
+"948","Severe Skin Burn or Condition",45,45
+"952","Spinal Cord Disorders/Injuries",21,21
+"958","Traumatic Amputations and Complications",14,14
+"995","Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock",5,5
+"996","Complications of Specified Implanted Device or Graft",28,28
+"997","Amputation Status, Lower Limb/Amputation Complications",4,4
+"998","Cardio-Respiratory Failure and Shock",1,1
+"998","Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock",1,1
+"E95","Major Depressive, Bipolar, and Paranoid Disorders",47,47
+"V08","HIV/AIDS",1,1
+"V42","Major Organ Transplant or Replacement Status",7,7
+"V43","Major Organ Transplant or Replacement Status",2,2
+"V44","Artificial Openings for Feeding or Elimination",11,11
+"V45","Dialysis Status",2,2
+"V46","Respirator Dependence/Tracheostomy Status",4,4
+"V49","Amputation Status, Lower Limb/Amputation Complications",8,8
+"V52","Amputation Status, Lower Limb/Amputation Complications",1,1
+"V55","Artificial Openings for Feeding or Elimination",8,8
+"V56","Dialysis Status",6,6
+"V58","Diabetes without Complication",1,1
+"V85","Morbid Obesity",5,5
